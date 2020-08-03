@@ -1,3 +1,3 @@
 # Introduction_to_Python
 
-This jupyter notebook introduces the fundamental background on data structures used in Python programming language.
+I created this jupyter notebook which introduces the fundamental background on data structures, linear regression,  random forest and gradient boosting models.
