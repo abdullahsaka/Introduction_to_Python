@@ -1,3 +1,4 @@
 # Introduction_to_Python
 
-I created this jupyter notebook which introduces the fundamental background on data structures, linear regression,  random forest and gradient boosting models.
+
+I created this repository for data scientist candidates who want to implement basic algorithms in Python. This repository includes the fundamental background on data structures, linear regression,  random forest and gradient boosting models.
